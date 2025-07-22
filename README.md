@@ -1,0 +1,1 @@
+# tranciti-widget-GADET
