@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Seguimiento Tranciti</title>
+</head>
+<body>
+  <h2>Widget de seguimiento</h2>
+  <iframe 
+    src="https://app.tranciti.com/widget/?accessKey=3a491e423e35ddc93a1f3d7db7149420bfefe643c88da2f867e144b826dff41f" 
+    width="490" 
+    height="130" 
+    frameborder="0" 
+    allowfullscreen 
+    loading="lazy">
+  </iframe>
+</body>
+</html>
